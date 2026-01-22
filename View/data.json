@@ -1,0 +1,82 @@
+{
+  "section": "featured-products",
+  "title": "Featured Products",
+  "products": [
+    {
+      "id": 1,
+      "name": "Organic Tomatoes",
+      "description": "Fresh, juicy organic tomatoes",
+      "image": "https://i.ibb.co/xnQB4d8/1759063218-tomato.jpg",
+      "alt": "Fresh Tomatoes",
+      "badge": "Fresh",
+      "price": {
+        "current": "৳199/kg",
+        "original": "৳279"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Cauliflower",
+      "description": "Fresh seasonal Cauliflower",
+      "image": "https://i.ibb.co/nsY0zbT1/1759165749-cauliflower.png",
+      "alt": "cauliflower",
+      "badge": "Organic",
+      "price": {
+        "current": "৳35/pc"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Fresh Whole Milk",
+      "description": "Farm-fresh whole milk",
+      "image": "https://i.ibb.co/qMwLw35k/1759771846-milk.jpg",
+      "alt": "Fresh Milk",
+      "badge": "Premium",
+      "price": {
+        "current": "৳139"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Mangoes",
+      "description": "Hand-picked seasonal fruits",
+      "image": "https://i.ibb.co/35Cb8J50/mango.jpg",
+      "alt": "Fresh Fruits",
+      "badge": "Sweet",
+      "price": {
+        "current": "৳70/kg",
+        "original": "৳120/kg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Greek Yogurt",
+      "description": "Creamy Greek yogurt",
+      "image": "https://i.ibb.co/VWLHMk8s/yogurt.jpg",
+      "alt": "Yogurt",
+      "badge": "Healthy",
+      "price": {
+        "current": "৳239"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Basmati Rice",
+      "description": "Premium long-grain rice",
+      "image": "https://i.ibb.co/ksSsRHvG/basmati.webp",
+      "alt": "Rice",
+      "badge": "Staple",
+      "price": {
+        "current": "৳250/kg"
+      }
+    }
+  ]
+}
+
+
+
+
+
+
+
+
